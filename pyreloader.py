@@ -1,5 +1,6 @@
+#!/usr/bin/python 
+
 import subprocess
-import copy
 import sys
 import time
 
